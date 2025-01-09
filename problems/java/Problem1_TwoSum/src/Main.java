@@ -22,8 +22,6 @@ public class Main {
 		
 		System.out.println(sol1[0] + " " + sol1[1]);
 		System.out.println(sol2[0] + " " + sol2[1]);
-		
-
 	}
 
 	// Brute force approach
